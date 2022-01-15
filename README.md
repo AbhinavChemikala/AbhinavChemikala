@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development and Level Designing
 - 🌱 I’m currently learning Game Development
 - 💞️ I’m looking to collaborate on Games
-- 📫 You can reach me by mail AbhinavChemikala@icloud.com
+- 📫 You can reach me by mail AbhinavChemikala@outlook.com
 
 <!---
 abhiboby/abhiboby is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
