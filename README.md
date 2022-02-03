@@ -17,7 +17,7 @@ Skills: Unreal Engine / Unity / Substance Painter / C / C++ / C# / R / Python  /
 
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=abhiboby)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=abhiboby&show_icons=true&count_private=true)  
@@ -25,3 +25,4 @@ Skills: Unreal Engine / Unity / Substance Painter / C / C++ / C# / R / Python  /
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=abhiboby)  
 
 ![Profile views](https://gpvc.arturio.dev/abhiboby)  
+[![trophy](https://github-profile-trophy.vercel.app/?username=abhiboby)](https://github.com/ryo-ma/github-profile-trophy)
