@@ -10,7 +10,7 @@ Skills: Unreal Engine / Unity / Substance Painter / C / C++ / C# / R / Python  /
 - 🔭 I’m currently working on Making games in Unreal Engine 
 - 🌱 I’m currently learning Advanced C++ for Unreal Engine 
 - 👯 I’m looking to collaborate on Making games 
-- 📫 How to reach me: AbhinavChemikala@outlook.com and Visit my website [AbhinavChemikala.me](AbhinavChemikala.me)  for my Resume 
+- 📫 How to reach me: AbhinavChemikala@outlook.com and Visit my website <a href="https://abhinavchemikala.me/" target="_blank">AbhinavChemikala.me</a> for my Resume.
 
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/abhiboby)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/abhinavkumarreddy/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/abhibobyrockz/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/Abhi30214607)  
